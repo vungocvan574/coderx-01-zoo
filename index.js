@@ -1,3 +1,4 @@
 var Dog = require('./Dog');
 
-var Dog = new Dog('Tyke')
+var dog = new Dog('Tyke')
+dog.sayHi();
